@@ -1,5 +1,7 @@
 # Hubel
 
+[![Build Status](https://secure.travis-ci.org/ctshryock/hubel.png?branch=master)](http://travis-ci.org/ctshryock/hubel)
+
 Nothing to see here. Move along.
 
 ## Installation
