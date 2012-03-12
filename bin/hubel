@@ -18,7 +18,7 @@ class App
 
   # Declare command-line interface here
 
-  # description "one line description of your app"
+  description "A REPL for your Github"
   #
   # Accept flags via:
   # on("--flag VAL","Some flag")
