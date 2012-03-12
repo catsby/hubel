@@ -14,8 +14,9 @@ Gem::Specification.new do |gem|
   gem.name          = "hubel"
   gem.require_paths = ["lib"]
   gem.version       = Hubel::VERSION
-  gem.add_development_dependency('rdoc')
-  gem.add_development_dependency('aruba')
-  gem.add_development_dependency('rake','~> 0.9.2')
   gem.add_dependency('methadone', '~>1.0.0.rc4')
+  gem.add_development_dependency('tomdoc')
+  gem.add_development_dependency('aruba', '~> 0.4.11')
+  gem.add_development_dependency('rake','~> 0.9.2')
+  gem.add_development_dependency('rspec', '~> 2.8.0')
 end
