@@ -7,6 +7,7 @@ is to provide a simple, easy way to interact with Github from the command line, 
 
 Hubel aims to help you do *Github* things, as opposed to *git* things. Viewing issues, commenting, administering teams, et. al. It is working directory agnostic, and not (initially) meant to do any work on your filesystem. Use something like [Hub][3] or the [Github gem][4] for those tasks.
 
+**Despite the pretty output below, Hubel does not really exist yet.** Those are just plans...
 
 
 ## Installation
